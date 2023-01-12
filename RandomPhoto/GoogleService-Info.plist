@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>172391145284-3op2mm95r1ja368spe4rtlkr6h8dlgll.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.172391145284-3op2mm95r1ja368spe4rtlkr6h8dlgll</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCArZSrVDSwrhe6UGg0CkvlLJxYwP7BCGw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>172391145284</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>xyz.palmaoff.RandomPhoto</string>
+	<key>PROJECT_ID</key>
+	<string>lyrical-nectar-286908</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lyrical-nectar-286908.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:172391145284:ios:b7796a885de7850bec0111</string>
+</dict>
+</plist>
